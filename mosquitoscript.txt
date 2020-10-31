@@ -1,0 +1,5 @@
+@prachi-kumar
+@manishkumartiruwar
+// 
+
+mosquito script is designed to work with hid scripts ,   intended  to automate tasks.
